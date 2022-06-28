@@ -84,7 +84,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: #f2f0f1;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -11294,3 +11294,12 @@ textarea.form-control-lg {
   width: 4rem;
   font-size: 2rem;
 }
+
+.logo{
+  width: 80%;
+}
+/*header{
+  background-image: url(../assets/img/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}*/
